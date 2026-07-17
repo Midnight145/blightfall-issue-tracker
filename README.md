@@ -1,2 +1,1 @@
-# blightfall-issue-tracker
-Issue tracker for the Blightfall modpack
+# This repository is outdated. Report all new issues to https://github.com/Midnight145/blightfall/issues
